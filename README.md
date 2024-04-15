@@ -1,5 +1,31 @@
 # Social-Engineering-Attacks
 
+Social engineering attacks are manipulative techniques employed by malicious actors to exploit human psychology and gain unauthorized access to sensitive information or systems. These attacks leverage psychological and emotional manipulation rather than relying on technical vulnerabilities. Here are some common types of social engineering attacks:
+
+Phishing:
+
+Email Phishing: Attackers send deceptive emails that appear to be from a legitimate source, often containing malicious links or attachments.
+Spear Phishing: Targeted phishing attacks aimed at specific individuals or organizations, using personalized information to increase the chances of success.
+Vishing (Voice Phishing):
+
+Attackers use phone calls to trick individuals into revealing sensitive information or performing certain actions, often by impersonating a trustworthy entity, such as a bank or IT support.
+Impersonation:
+
+Attackers may impersonate a trusted colleague, executive, or IT personnel to gain access to confidential information or convince individuals to perform actions they normally wouldn't.
+Baiting:
+
+Malicious actors offer something enticing, such as a free software download or USB drive, to lure individuals into taking actions that compromise security, like installing malware or revealing login credentials.
+Quizzes and Surveys:
+
+Cybercriminals use fake quizzes or surveys on social media platforms to gather personal information that can be used for identity theft or targeted attacks.
+Pretexting:
+
+Attackers create a fabricated scenario or pretext to trick individuals into divulging information or performing actions that compromise security.
+Watering Hole Attacks:
+
+Malicious actors compromise websites frequented by a target group, exploiting vulnerabilities in the site to deliver malware to visitors.
+Protecting against social engineering attacks involves a combination of awareness, education, and technological solutions. Employees should be trained to recognize phishing attempts, verify the legitimacy of requests for sensitive information, and follow security best practices. Organizations should implement multi-factor authentication, regularly update security policies, and employ advanced threat detection tools to mitigate the risks associated with social engineering attacks.
+
 import random
 import re
 import time
